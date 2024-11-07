@@ -12,7 +12,7 @@
   </p>
 </p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical skills:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -32,4 +32,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogorsgoncalves&show_icons=true&locale=en&layout=compact" alt="diogorsgoncalves" /></p>
+<img height="200em" padding="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorsgoncalves&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_border=false" alt="diogorsgoncalves" />
